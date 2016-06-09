@@ -1,5 +1,4 @@
-# 我的第一个GitHub项目
-
+# 只是一个测试而已。
 这是项目 [conf-review](https://github.com/xjhuang2015/conf-review) ，
 欢迎访问。
 
