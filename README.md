@@ -9,7 +9,6 @@
 ## 版本库地址
 
 支持三种访问协议：
-
 * HTTP协议: `https://github.com/xjhuang2015/conf-review.git` 。
 * Git协议: `git://github.com/xjhuang2015/conf-review.git` 。
 * SSH协议: `ssh://git@github.com/xjhuang2015/conf-review.git` 。
